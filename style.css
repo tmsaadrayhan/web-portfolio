@@ -21,7 +21,8 @@ h1{
     text-align: center;
     font-size: 25px;
     background-image: url("Images/wpb2.png");
-    width: 100%;
+    background-repeat: no-repeat;
+    background-position:top;
     padding-bottom: 40px;
     margin-bottom: 40px;
 }
@@ -45,7 +46,6 @@ img{
 }
 .c3{
     margin-left: 5%;
-    width: 50%;
     float: left;
 }
 a{
@@ -68,4 +68,27 @@ a{
     background-image: url("Images/wpw.png");
     background-size: 220px;
     padding-left: 33px;
+}
+.sc{
+    background-image: url("Images/wpc.png");
+    background-size: 260px;
+    padding-left: 48px;
+}
+.se1{
+    background-image: url("Images/wpe1.png");
+    background-size: 450px;
+    padding-left: 35px;
+    color: black;
+}
+.se2{
+    background-image: url("Images/wpe2.png");
+    background-size: 450px;
+    padding-left: 33px;
+    color: black;
+}
+.se3{
+    background-image: url("Images/wpe3.png");
+    background-size: 450px;
+    padding-left: 33px;
+    color: black;
 }
