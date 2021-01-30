@@ -55,17 +55,17 @@ a{
     padding: 5px;
 }
 .sf{
-    background-image: url("images/wpf.png");
+    background-image: url("Images/wpf.png");
     background-size: 220px;
     padding-left: 30px;
 }
 .st{
-    background-image: url("images/wpt.png");
+    background-image: url("Images/wpt.png");
     background-size: 220px;
     padding-left: 33px;
 }
 .sw{
-    background-image: url("images/wpw.png");
+    background-image: url("Images/wpw.png");
     background-size: 220px;
     padding-left: 33px;
 }
