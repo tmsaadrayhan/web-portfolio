@@ -33,20 +33,21 @@ img{
     width: 500px;
 }
 .cv{
-    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-size: 18px;
+    height: 60px;
 }
 .c1{
-    margin-left: 10%;
-    float: left;
+    width: 200px;
+}
+.cm{
+    width: 50px;
+    text-align: center;
 }
 .c2{
-    margin-left: 10%;
-    float: left;
-}
-.c3{
-    margin-left: 5%;
-    float: left;
+    width: 400px;
 }
 a{
     text-decoration: none;
